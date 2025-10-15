@@ -24,4 +24,5 @@ This project is simple Lorem ipsum dolor generator.
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/68e3f4d7-dbcf-4cc8-a08c-12fbb5395039)
+![image](https://github.com/user-attachments/assets/89dd8203-e983-479e-b64f-78048ad3716d)
+
