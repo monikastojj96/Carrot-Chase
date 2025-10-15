@@ -12,11 +12,11 @@
 ## General info
 Overview:
 * Carrot Chase is a video game prototype created in Microsoft MakeCode Arcade using Python. The goal is simple: collect as many carrots as possible before the timer runs outs while avoiding being eaten by the snake.
-# Problem it solves:
+Problem it solves:
 * My prototype focuses on an artistic challenge: using Microsoft MakeCode Arcade as a platform for creative expression.
-# Purpose:
+Purpose:
 * My objective is to explore how simple tools can be utilised to create a meaningful artistic expereince.
-# Why I undertook it:
+Why I undertook it:
 * To combine coding with creative-problem solving, while learning about the link between code, design and player experience. 
 	
 ## Technologies
