@@ -8,9 +8,8 @@ Carrot Chase is a video game prototype created in Microsoft MakeCode Arcade usin
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Microsoft MakeCode Arcade
+* Python - coding language used within MakeCode Arcade 
 
 
 
