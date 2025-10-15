@@ -6,6 +6,9 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 ## General info
 * Overview:
@@ -18,11 +21,26 @@ Project is created with:
 * Python - coding language used within MakeCode Arcade 
 
 
-
 ## Features
 This project is simple Lorem ipsum dolor generator.
-
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/89dd8203-e983-479e-b64f-78048ad3716d)
 
+
+## Setup
+
+
+## Usage
+
+
+## Project Status
+
+
+## Room for Improvements
+
+
+## Acknowledgements 
+
+
+## Contact 
