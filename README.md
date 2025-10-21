@@ -49,8 +49,12 @@ Project is created with:
 
 
 ## Room for Improvement
-
+* Add multiple levels with progressive difficulty
+* Integrate sound effects and improved animations
+* Refine the user interface for a smoother player experience
 
 ## Acknowledgements 
-
+* Built using Microsoft MakeCode Arcade
+* Matthes, E. (2023). Python crash course: A hands-on, project-based introduction to programming (3rd ed.). No Starch Press. https://ebookcentral.proquest.com/lib/uts/detail.action?pq-origsite=primo&docID=5774153
+* https://www.youtube.com/watch?v=ufGtcIMsTlc 
 
